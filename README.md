@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://files.catbox.moe/m8f079.webm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/MwS853K"  ><a href="//imgur.com/a/MwS853K">Video Walkthrough</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with wf-recorder.  
